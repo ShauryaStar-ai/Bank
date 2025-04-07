@@ -1,4 +1,4 @@
-# Global variables for the app
+# Global variables 
 user_counter = 0
 clientInfo = {} 
 def give_Account_Number():
